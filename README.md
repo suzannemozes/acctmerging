@@ -1,3 +1,4 @@
+### Instructions
 Given a listing of accounts, from a variety of applications, merge the accounts to create a listing of people.
 
 Assumptions:
@@ -51,3 +52,7 @@ Output
     name: "Person 1"
   }
 ]
+
+## How to run application
+1. Install Node.js
+2. In the commande line, type "node index.js"
